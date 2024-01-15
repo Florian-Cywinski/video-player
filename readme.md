@@ -1,9 +1,7 @@
-## Music Player
+## Video Player
 
-Vanilla JS app to play music stored in the "music folder" using the HTML5 audio API - from Brad Trversy's 'Modern JS From The Beginning' course.
-
-Try out the app :) - https://resilient-faun-f426cf.netlify.app/
+Vanilla JS mini app to play a video stored in the "media folder" using the HTML5 video API - from Brad Trversy's 'Modern JS From The Beginning' course.
 
 1. Add play and pause functionality
-2. Switch songs
+2. Stop video
 3. Progress bar
